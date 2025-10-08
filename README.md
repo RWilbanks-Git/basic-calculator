@@ -1,4 +1,4 @@
 # basic-calculator
 A basic calculator (with GUI) that can add, subtract, multiply, divide, square, and take the square root of number(s) provided by the user.
 
-Don't worry if your number disappears after clicking on your desired action. Enter your next number, then press enter. 
+Don't worry if your number disappears after clicking on a mathematical symbol (+, -, /, x). Enter your next number, then press enter. 
